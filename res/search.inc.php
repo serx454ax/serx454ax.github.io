@@ -9,6 +9,7 @@ $imSettings['search']['general'] = array(
 		'0' => 'index.html'
 	),
 	'extendedScope' => array(
+		'4' => 'page-4.php'
 	)
 );
 
@@ -30,7 +31,14 @@ $imSettings['search']['images'] = array(
 $imSettings['search']['videos'] = array(
 );
 $imSettings['search']['dynamicobjects'] = array(
-
+	'14' => array(
+		'Folder' => '',
+		'DefaultText' => '<p>Нажмите здесь, чтобы редактировать исходный текст!</p>',
+		'Page' => 'page-4.php',
+		'PageTitle' => 'Управление',
+		'ObjectTitle' => '',
+		'ObjectId' => 'dynObj_4_01'
+	)
 );
 
 // End of file search.inc.php
