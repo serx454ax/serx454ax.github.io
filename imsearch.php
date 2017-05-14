@@ -19,7 +19,7 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-0-1-16" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-0-1-16" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-0-1-16" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-0-1-16-636303616837822853" media="screen" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-0-1-16-636303631193815579" media="screen" />
 		<script type="text/javascript" src="res/jquery.js?13-0-1-16"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-0-1-16" data-files-version="13-0-1-16"></script>
 		
@@ -49,12 +49,6 @@
 						<a href="index.html">
 							<span class="imMnMnFirstBg">
 								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Главная</span></span>
-							</span>
-						</a>
-					</li><li id="imMnMnNode4" class=" imPage">
-						<a href="page-4.php">
-							<span class="imMnMnFirstBg">
-								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Управление</span></span>
 							</span>
 						</a>
 					</li></ul>
