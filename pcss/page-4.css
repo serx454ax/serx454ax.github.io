@@ -1,0 +1,108 @@
+h2#imPgTitle {float: left; }
+#imHeader_imCell_1 { display: block; position: relative; overflow: visible; }
+#imHeader_imCellStyle_1 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
+#imHeader_imCellStyleGraphics_1 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
+#imHeader_imObjectTitle_01 {overflow: hidden; text-align: center; }
+#imHeader_imObjectTitle_01_text {font: normal normal normal 36pt 'Arial Black';  padding: 0px 0px 0px 0px;background-color: transparent; position: relative; display: inline-block; }
+#imHeader_imObjectTitle_01_text,
+#imHeader_imObjectTitle_01_text a { color: #FFBF00; }
+#imHeader_imObjectTitle_01_text a{ text-decoration: none; }
+#imGroup_1 { float: left; }
+#imCell_1 { display: block; position: relative; overflow: hidden; }
+#imCellStyle_1 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 3px; bottom: 3px; background-color: transparent; }
+#dynObj_4_01 { text-align: left; height: auto; overflow-y: auto; overflow-x: hidden; margin: 0 auto; width: auto; }
+#dynObj_4_01.editable { border: 1px dashed gray; }
+#dynObj_4_01 ul { margin: 0px; list-style-type: disc; }
+#dynObj_4_01 ol { margin: 0px; list-style-type: decimal; }
+#dynObj_4_01 li { margin: 0px 0px 0px 25px; }
+#dynObj_4_01 .editButton { display: block; position: absolute; bottom: 5px; right: 5px; }
+#dynObj_4_01 div.wysiwyg { border: 1px solid #999; padding: 0; background: #fff; }
+#dynObj_4_01 div.wysiwyg * { margin: 0; padding: 0; }
+#dynObj_4_01 div.wysiwyg ul.toolbar { width: 100%; border-bottom: 1px solid #ccc; float: left; padding: 0; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.jwysiwyg-custom-command { overflow: hidden; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li { list-style: none; float: left; margin: 2px 2px 4px 0; background: rgb(240, 240, 240); clear: none; padding: 0; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.separator { background: none; width: 1px; height: 24px; margin: 0 4px 0px 5px; border: none; border-left: 1px solid #ccc; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li { text-indent: -5000px; display: block; width: 18px; height: 18px; background: url('../images/wysiwyg.gif') no-repeat -640px -800px; border: 1px solid transparent; cursor: pointer; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.wysiwyg-button-hover, div.wysiwyg ul.toolbar li.active { background-color: #DDD; border: 1px solid transparent; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.active { background-color: rgb(255, 255, 64); border: 1px solid rgb(208, 208, 208); border-left-color: #aaa; border-top-color: #aaa; height: 18px; width: 18px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.disabled, div.wysiwyg ul.toolbar li.wysiwyg-button-hover.disabled, div.wysiwyg ul.toolbar li.active.disabled { opacity: 0.5; filter:alpha(opacity=50); }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.bold { background-position: -1px -15px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.italic { background-position: -18px -15px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.strikeThrough { background-position: -36px -15px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.underline { background-position: -55px -15px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.highlight { background-position: -56px -106px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.justifyLeft { background-position: 0 2px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.justifyCenter { background-position: -18px 2px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.justifyRight { background-position: -36px 2px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.justifyFull { background-position: -55px 2px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.indent { background-position: -74px 1px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.outdent { background-position: -92px 1px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.subscript { background-position: -74px -15px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.superscript { background-position: -92px -15px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.undo { background-position: 0px -68px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.redo { background-position: -18px -69px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.insertOrderedList { background-position: -36px -49px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.insertUnorderedList { background-position: -19px -49px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.insertHorizontalRule { background-position: 0 -49px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.h1 { background-position: 0px -31px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.h2 { background-position: -18px -31px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.h3 { background-position: -36px -31px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.h4 { background-position: -55px -31px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.h5 { background-position: -74px -31px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.h6 { background-position: -92px -31px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.paragraph { background-position: 0px -106px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.colorpicker { background-position: -18px -106px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.fullscreen { background-position: -36px -106px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.cut { background-position: -36px -68px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.copy { background-position: -55px -68px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.paste { background-position: -74px -68px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.insertTable { background-position: -74px -49px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.increaseFontSize { background-position: -18px -87px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.decreaseFontSize { background-position: -36px -87px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.createLink { background-position: -92px -48px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.unLink { background-position: -74px -87px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.insertImage { background-position: -92px -87px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.html { background-position: -55px -49px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.removeFormat { background-position: -92px -68px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.empty { background-position: -73px -86px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.code { background-position: -74px -106px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar li.cssWrap { background-position: -92px -106px; }
+#dynObj_4_01 div.wysiwyg ul.toolbar select { border: 1px solid gray; }
+#dynObj_4_01 div.wysiwyg-dialogRow { float:left; width:100%; font-size: 16px; }
+#dynObj_4_01 div.wysiwyg iframe { clear: left; box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4); background-color:white; padding:0px; margin:0; display:block; width: 100%; }
+.wysiwyg-dialog { position:fixed; top:50px; left:50px; width:450px; height:300px; background:transparent; font:14px "Helvetic Neue", Helvetica,Arial,sans-serif; }
+.wysiwyg-dialog .wysiwyg-dialog-topbar { background:#333; border:1px #111 solid; color:white; padding:10px; position:relative; }
+.wysiwyg-dialog .wysiwyg-dialog-topbar .wysiwyg-dialog-close-wrapper .wysiwyg-dialog-close-button { color:white; text-decoration:none; display:block; padding:6px 10px; position:absolute; right:12px; top:50%; height:14px; margin-top:-12px; }
+.wysiwyg-dialog .wysiwyg-dialog-topbar .wysiwyg-dialog-close-wrapper a.wysiwyg-dialog-close-button:hover { background:#666; }
+.wysiwyg-dialog .wysiwyg-dialog-topbar .wysiwyg-dialog-title { font-size:20px; font-weight:bold; padding:5px; }
+.wysiwyg-dialog .wysiwyg-dialog-content { border:1px #ccc solid; border-top:0; padding:15px; background:white; }
+.wysiwyg-dialog-modal-div { z-index: 11000; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:rgb(255,255,255); background-color:rgba(0,0,0,0.5); }
+.wysiwyg-dialog-content form.wysiwyg fieldset { border:1px #ccc solid; padding: 10px; }
+.wysiwyg-dialog-content form.wysiwyg legend { padding:7px; }
+.wysiwyg-dialog-content form.wysiwyg .form-row { clear:both; padding:4px 0; }
+.wysiwyg-dialog-content form.wysiwyg .form-row label, .wysiwyg-dialog form.wysiwyg .form-row .form-row-key { display:block; float:left; width:35%; text-align:right; padding:4px 5px; }
+.wysiwyg-dialog-content form.wysiwyg .form-row .form-row-value { display:block; float:left; width:55%; }
+.wysiwyg-dialog-content form.wysiwyg .form-row input.width-auto { width:auto; }
+.wysiwyg-dialog-content form.wysiwyg label { margin-left: 3px; }
+.wysiwyg-dialog-content form.wysiwyg input[disabled] { background-color: #eee; color: #aaa; }
+.wysiwyg-dialog-content form.wysiwyg input.width-small { width:50px; min-width:50px; max-width:50px; }
+.wysiwyg-dialog-content form.wysiwyg input, .wysiwyg-dialog form.wysiwyg select { padding:2px; width:97%; margin:2px; }
+.wysiwyg-dialog-content form.wysiwyg input[type=radio] { width: 15px; margin-right: 8px; }
+.wysiwyg-dialog-content form.wysiwyg input[type=submit], .wysiwyg-dialog form.wysiwyg input[type=reset] { padding:2px 7px; width:auto; }
+#dynObj_4_01 div.wysiwyg { margin-bottom: 5px; }
+#dynObj_4_01.text-area { height: auto }.imContentDataContainer { width: 1160px; margin-left: auto; margin-right: auto; padding: 0 5px 0 5px; }
+#imPgTitle { width: 1146px; margin-left: 6px; margin-right: 6px; }
+#imGroup_1 { width: 100%; }
+#imCell_1 { width: 1154px; min-height: 6px;  padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px; }
+#imCellStyle_1 { width: 1154px; min-height: 6px; padding: 3px 3px 3px 3px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imCellStyleGraphics_1 { left: 3px; right: 3px; }
+#imGroup_2 { width: 1160px; height: 0px; }
+
+#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 288px; left: 79px; width: 963px; height: 86px; z-index: 1; overflow-y: hidden; }
+#imHeader_imCell_1 { width: 963px; min-height: 0px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+#imHeader_imCellStyle_1 { width: 963px; min-height: 0px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imHeader_imCellStyleGraphics_1 { left: 0px; right: 0px; }
+#imHeader_imObjectTitle_01_text { top: 0px;  }
+#imHeader_imObjectTitle_01 {min-height: 0px; }
+
